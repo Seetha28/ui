@@ -1,0 +1,89 @@
+.sk{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+#ds{
+    margin-top: -10px;
+}
+#siva{
+    margin-left: 250px;
+    text-decoration: none;
+    color: black;
+}
+
+.siva
+{
+    margin-top: 0px;
+    margin-left:2px;
+    text-decoration: none;
+    color: black;
+    padding-left: 30px;
+    text-align: right top;
+}
+
+.demo{
+    background-color: black;
+    margin-top: 50px;
+    color: white;
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.demo p{
+    padding-left: 100px;;
+}
+
+p{
+    margin-left: 100px;
+}
+.my{
+    margin-left: 100px;
+    margin-top: 10px;
+    
+}
+.name
+{
+    background-position: center;
+    padding-left: 50px;
+    margin-top: 10px;
+    
+    
+}
+.as{
+    background-position: right;
+    padding-left: 50px;
+    margin-right: 50px;
+    height: 140px;
+    margin-top: 10px;
+    
+    
+}
+.p{
+    margin-left: 100px;
+    padding-left: 50px;
+}
+div{
+    padding-left: 100px;
+    margin-top: 20px;
+}
+#re
+{
+    
+    margin-left: 160px;
+}
+#tr
+{
+    
+    margin-left: 155px;
+}
+#as{
+    background-position: right;
+    padding-left: 50px;
+    margin-right: 50px;
+    height: 140px;
+    margin-top: 10px;
+    width: 240px;
+    
+    
+}
